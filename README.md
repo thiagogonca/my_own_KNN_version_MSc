@@ -7,8 +7,10 @@
 ## 2D input data Visualization
 
 ![Alt text](/pictures/2d_plot_knn_zoom.png)
-* KNN algorithm for K=5 in the [x1=2,x2=-2] coordinate. The visualization was zoomed K nearest points (in blue) and the predicted red point
+* KNN algorithm for K=5 in the [x1=2,x2=-2] coordinate. The visualization was zoomed, and it shows the K nearest points (in blue) and the predicted point (in red). 
 
 ## A screenshot of my report, you can read the full report of the implementation in Report_Statiscal_Learning_Theory_KNN.pdf 
 
 ![Alt text](/pictures/report-metodology-and-manhattan-distance.png)
+
+![Alt text](/pictures/report-analysis.png)
